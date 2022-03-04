@@ -1,0 +1,50 @@
+body {
+    background: #2962FF;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.card {
+    border-radius: 13px;
+    border: none
+}
+
+.card-heading {
+    font-weight: bold;
+    /* font-family: */
+}
+
+.form-control {
+    border: none;
+    border-radius: 10px;
+    background: rgba(165, 147, 69, 0.075)
+}
+
+.btn {
+    border: 1px solid #2979FF;
+    border-radius: 10px;
+    width: 120px
+}
+
+.forgot {
+    font: #00ACC1;
+    font-weight: bold;
+    color: #26C6DA;
+    font-size: 15px;
+    padding-left: 35px
+}
+
+.form-control {
+    background-color: #eee !important
+}
+
+.form-control:focus {
+    color: #495057;
+    border-color: #fff !important;
+    outline: 0;
+    box-shadow: 0 0 0 0 rgba(0, 123, 255, .25) !important
+}
+
+a {
+    text-decoration: none !important
+}
+
